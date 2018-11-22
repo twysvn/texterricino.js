@@ -8,6 +8,7 @@ Include texterricino.js in your project to start using it.
 
 ```
 <script src="texterricino.js"></script>
+```
 
 ### Work in progress:
 
